@@ -60,30 +60,30 @@
     <string name="_2fa" translatable="false">2FA</string>
     <string name="set_time_limit">Set time limit</string>
     <string name="add_some_description">Add some description</string>
-    <string name="desc">Description:</string>
-    <string name="name">Name</string>
-    <string name="view_password">View password</string>
-    <string name="time_lim">Last changed:</string>
-    <string name="pass">Password:</string>
+    <string name="desc">Descripción:</string>
+    <string name="name">Nombre</string>
+    <string name="view_password">Ver contraseña</string>
+    <string name="time_lim">Último cambio:</string>
+    <string name="pass">Contraseña:</string>
     <string name="hi">Hi, </string>
-    <string name="qualityPassword">Password quality:</string>
-    <string name="edit">Edit</string>
+    <string name="qualityPassword">Calidad de la contraseña:</string>
+    <string name="edit">Editar</string>
     <string name="get_info">Info</string>
     <string name="_2fa_you_use_multi_factor_authentication_in_this_app">2FA - you use multi-factor authentication in this app</string>
     <string name="time_limit_we_will_remember_you_to_change_your_password_in_4_months">Time Limit - we will remember you to change your password in 4 months</string>
-    <string name="yes">Yes</string>
+    <string name="yes">Si</string>
     <string name="no">No</string>
-    <string name="cancel">Cancel</string>
-    <string name="deletePassword">Delete this password</string>
-    <string name="passwordDeleteConfirm">Are you really want to this password?</string>
-    <string name="passwordDeleted">You password has been deleted</string>
+    <string name="cancel">Cancelar</string>
+    <string name="deletePassword">Eliminar esta contraseña</string>
+    <string name="passwordDeleteConfirm">¿De verdad quieres eliminar esta contraseña?</string>
+    <string name="passwordDeleted">Tu contraseña ha sido eliminada</string>
     <string name="accountDeleteConfirm">Are you really want to delete this account?</string>
     <string name="accountExitConfirm">Are you really want to log out this account?</string>
     <string name="accountDelete">Delete this account</string>
     <string name="accountDeleted">You account has been deleted</string>
-    <string name="low">low</string>
-    <string name="high">high</string>
-    <string name="medium">medium</string>
+    <string name="low">baja</string>
+    <string name="high">alta</string>
+    <string name="medium">media</string>
     <string name="no_password">You have no passwords yet. Tap to add your first password.</string>
     <string name="you_decided_to_change_some_settings">You decided to change some settings</string>
     <string name="bio_usage">Biometric usage</string>
@@ -91,17 +91,17 @@
     <string name="biometricLogin">Fingerprint unlock</string>
     <string name="logWithBio">Log in using your biometric credential</string>
     <string name="usePass">Use account password</string>
-    <string name="search_password">Search</string>
+    <string name="search_password">Buscar</string>
     <string name="auto_copy_password">Auto-copy password</string>
-    <string name="about_app">About app</string>
+    <string name="about_app">Acerca de</string>
     <string name="mikhail_grigorev">Mikhail Grigorev</string>
     <string name="_2020" translatable="false">"v2.5.0 • 2021 "</string>
     <string name="telegram" translatable="false">Telegram</string>
     <string name="vkontakte" translatable="false">Vkontakte</string>
-    <string name="sen_email" translatable="false">Send email</string>
-    <string name="chooseEmail">Choose Email Client…</string>
-    <string name="key_words">Keywords</string>
-    <string name="add_keywords">Add keywords</string>
+    <string name="sen_email" translatable="false">Enviar correo</string>
+    <string name="chooseEmail">Elija cliente de correo electrónico...</string>
+    <string name="key_words">Palabras clave</string>
+    <string name="add_keywords">Agregar palabras clave</string>
     <string name="you_are_using_this_password_for_a_long_time_you_should_change_it">You are using this password for a long time. You should change it.</string>
     <string name="_2" translatable="false">2</string>
     <string name="_1" translatable="false">1</string>
@@ -113,24 +113,24 @@
     <string name="_8" translatable="false">8</string>
     <string name="_9" translatable="false">9</string>
     <string name="_0" translatable="false">0</string>
-    <string name="input_your_pin">"Input your pin "</string>
-    <string name="set_pin">Set pin</string>
-    <string name="settings">Settings</string>
-    <string name="incorrectPin">Incorrect pin</string>
+    <string name="input_your_pin">"Ingresa tu pin "</string>
+    <string name="set_pin">Establecer pin</string>
+    <string name="settings">Ajustes</string>
+    <string name="incorrectPin">Pin incorrecto</string>
 
-    <string name="choose_theme">Theme</string>
-    <string name="main_settings">Main</string>
-    <string name="save_pin">Save pin</string>
-    <string name="daynight_mode">Dark theme</string>
-    <string name="defaultSystem">Default</string>
-    <string name="light">Light</string>
-    <string name="dark">Dark</string>
-    <string name="battery_saver">Battery saver</string>
+    <string name="choose_theme">Apariencia</string>
+    <string name="main_settings">General</string>
+    <string name="save_pin">Guardar pin</string>
+    <string name="daynight_mode">Tema</string>
+    <string name="defaultSystem">Por defecto</string>
+    <string name="light">Claro</string>
+    <string name="dark">Oscuro</string>
+    <string name="battery_saver">Ahorro de batería</string>
     <string name="set_icon_color_to_current_theme">Set icon color to current theme</string>
     <string name="warning_app_will_be_closed">(Warning: App will be closed)</string>
-    <string name="set">Set</string>
+    <string name="set">Establecer</string>
     <string name="sameParts">Password contains same parts with</string>
-    <string name="favorite">Favorite</string>
+    <string name="favorite">Favorito</string>
     <string name="email_login" translatable="false">E-mail/Login</string>
     <string name="add_email">Add login or e-mail</string>
     <string name="email" translatable="false">E-mail/login</string>
