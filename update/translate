@@ -90,9 +90,9 @@
     <string name="fingerUnlock">Do you want to use fingerprint unlock?</string>
     <string name="biometricLogin">Fingerprint unlock</string>
     <string name="logWithBio">Log in using your biometric credential</string>
-    <string name="usePass">Use account password</string>
+    <string name="usePass">Usar contraseña de cuenta</string>
     <string name="search_password">Buscar</string>
-    <string name="auto_copy_password">Auto-copy password</string>
+    <string name="auto_copy_password">Copiar automáticamente la contraseña</string>
     <string name="about_app">Acerca de</string>
     <string name="mikhail_grigorev">Mikhail Grigorev</string>
     <string name="_2020" translatable="false">"v2.5.0 • 2021 "</string>
@@ -102,7 +102,7 @@
     <string name="chooseEmail">Elija cliente de correo electrónico...</string>
     <string name="key_words">Palabras clave</string>
     <string name="add_keywords">Agregar palabras clave</string>
-    <string name="you_are_using_this_password_for_a_long_time_you_should_change_it">You are using this password for a long time. You should change it.</string>
+    <string name="you_are_using_this_password_for_a_long_time_you_should_change_it">Está utilizando esta contraseña durante mucho tiempo. Deberías cambiarla.</string>
     <string name="_2" translatable="false">2</string>
     <string name="_1" translatable="false">1</string>
     <string name="_3" translatable="false">3</string>
@@ -129,7 +129,7 @@
     <string name="set_icon_color_to_current_theme">Establecer el color del icono del tema actual</string>
     <string name="warning_app_will_be_closed">(Advertencia: la aplicación se cerrará)</string>
     <string name="set">Establecer</string>
-    <string name="sameParts">Password contains same parts with</string>
+    <string name="sameParts">La contraseña contiene las mismas partes con</string>
     <string name="favorite">Favorito</string>
     <string name="email_login" translatable="false">E-mail/Login</string>
     <string name="add_email">Add login or e-mail</string>
