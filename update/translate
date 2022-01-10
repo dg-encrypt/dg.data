@@ -50,16 +50,16 @@
     <string name="chipSym" translatable="false">./-…</string>
     <string name="length">Longitud</string>
     <string name="generate" translatable="false">+</string>
-    <string name="passCopied">Password was copied to clipboard</string>
+    <string name="passCopied">La contraseña se copió al portapapeles</string>
     <string name="loginCopied">Login was copied to clipboard</string>
     <string name="nameCopied">Name was copied to clipboard</string>
     <string name="noRules">You should choose at least 1 rule</string>
     <string name="add_new_password">Add password</string>
-    <string name="exit_account">Log out</string>
+    <string name="exit_account">Cerrar sesión</string>
     <string name="name_your_password">Name your password</string>
     <string name="_2fa" translatable="false">2FA</string>
     <string name="set_time_limit">Set time limit</string>
-    <string name="add_some_description">Add some description</string>
+    <string name="add_some_description">Agrega una descripción</string>
     <string name="desc">Descripción:</string>
     <string name="name">Nombre</string>
     <string name="view_password">Ver contraseña</string>
