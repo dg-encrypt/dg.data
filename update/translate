@@ -1,10 +1,10 @@
 <resources>
     <string name="app_name" translatable="false">QuickPass</string>
-    <string name="hi_username">Hi,</string>
-    <string name="inputLogin">Login</string>
-    <string name="inputPassword">Password</string>
-    <string name="sign_in">Sign in</string>
-    <string name="sign_up">Sign up</string>
+    <string name="hi_username">Hola,</string>
+    <string name="inputLogin">Usuario</string>
+    <string name="inputPassword">Contraseña</string>
+    <string name="sign_in">Ingresar</string>
+    <string name="sign_up">Registrarse</string>
     <string name="helloSubText">Inicie sesión o cree una cuenta</string>
     <string name="errNumOfText">al menos 3 caracteres</string>
     <string name="errPass">entre 4 y 20 caracteres alfanuméricos</string>
@@ -51,14 +51,14 @@
     <string name="length">Longitud</string>
     <string name="generate" translatable="false">+</string>
     <string name="passCopied">La contraseña se copió al portapapeles</string>
-    <string name="loginCopied">Login was copied to clipboard</string>
+    <string name="loginCopied">El nombre de usuario se copió al portapapeles</string>
     <string name="nameCopied">El nombre se copió al portapapeles</string>
     <string name="noRules">Debes elegir al menos 1 regla</string>
     <string name="add_new_password">Agregar contraseña</string>
     <string name="exit_account">Cerrar sesión</string>
     <string name="name_your_password">Nombra tu contraseña</string>
     <string name="_2fa" translatable="false">2FA</string>
-    <string name="set_time_limit">Set time limit</string>
+    <string name="set_time_limit">Establecer tiempo limite</string>
     <string name="add_some_description">Agrega una descripción</string>
     <string name="desc">Descripción:</string>
     <string name="name">Nombre</string>
@@ -131,9 +131,9 @@
     <string name="set">Establecer</string>
     <string name="sameParts">La contraseña contiene las mismas partes con</string>
     <string name="favorite">Favorito</string>
-    <string name="email_login" translatable="false">E-mail/Login</string>
-    <string name="add_email">Add login or e-mail</string>
-    <string name="email" translatable="false">E-mail/login</string>
+    <string name="email_login" translatable="false">Correo/Usuario</string>
+    <string name="add_email">Agregar correo electrónico</string>
+    <string name="email" translatable="false">Correo/Usuario</string>
     <string name="additional_settings">Ajustes adicionales</string>
     <string name="showPin">No muestres este pin a los demás.</string>
     <string name="time_notification">Aviso de tiempo</string>
