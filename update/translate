@@ -69,8 +69,8 @@
     <string name="qualityPassword">Calidad de la contraseña:</string>
     <string name="edit">Editar</string>
     <string name="get_info">Información</string>
-    <string name="_2fa_you_use_multi_factor_authentication_in_this_app">2FA - you use multi-factor authentication in this app</string>
-    <string name="time_limit_we_will_remember_you_to_change_your_password_in_4_months">Time Limit - we will remember you to change your password in 4 months</string>
+    <string name="_2fa_you_use_multi_factor_authentication_in_this_app">2FA: utiliza la autenticación multifactor en esta aplicación</string>
+    <string name="time_limit_we_will_remember_you_to_change_your_password_in_4_months">Límite de tiempo: recordaremos que cambie su contraseña en 4 meses</string>
     <string name="yes">Si</string>
     <string name="no">No</string>
     <string name="cancel">Cancelar</string>
