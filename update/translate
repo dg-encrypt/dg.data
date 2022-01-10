@@ -9,46 +9,46 @@
     <string name="errNumOfText">at least 3 characters</string>
     <string name="errPass">between from 4 to 20 alphanumeric characters</string>
     <string name="log_out">Log out</string>
-    <string name="delete_account">Delete account</string>
-    <string name="no_text">No information</string>
-    <string name="exists">This user already exists</string>
-    <string name="wrong_name">No user with this name</string>
-    <string name="wrong_pass">Wrong password</string>
-    <string name="input_your_password">Input your password</string>
-    <string name="or_use_fingerprint">Or use fingerprint</string>
+    <string name="delete_account">Eliminar cuenta</string>
+    <string name="no_text">Sin información</string>
+    <string name="exists">Este usuario ya existe</string>
+    <string name="wrong_name">Ningún usuario con este nombre</string>
+    <string name="wrong_pass">Contraseña incorrecta</string>
+    <string name="input_your_password">Ingrese su contraseña</string>
+    <string name="or_use_fingerprint">O usa huella digital</string>
 
     <plurals name="correct_passwords">
-        <item quantity="zero">No safe passwords</item>
-        <item quantity="one">%1$d safe password</item>
-        <item quantity="two">%1$d safe passwords</item>
-        <item quantity="few">%1$d safe passwords</item>
-        <item quantity="many">%1$d safe passwords</item>
-        <item quantity="other">%1$d safe passwords</item>
+        <item quantity="zero">Sin contraseñas seguras</item>
+        <item quantity="one">%1$d contraseña segura</item>
+        <item quantity="two">%1$d contraseñas seguras</item>
+        <item quantity="few">%1$d contraseñas seguras</item>
+        <item quantity="many">%1$d contraseñas seguras</item>
+        <item quantity="other">%1$d contraseñas seguras</item>
     </plurals>
 
     <plurals name="incorrect_password">
-        <item quantity="zero">No unsafe passwords</item>
-        <item quantity="one">%1$d unsafe password</item>
-        <item quantity="two">%1$d unsafe passwords</item>
-        <item quantity="few">%1$d unsafe passwords</item>
-        <item quantity="many">%1$d unsafe passwords</item>
-        <item quantity="other">%1$d unsafe passwords</item>
+        <item quantity="zero">Sin contraseñas inseguras</item>
+        <item quantity="one">%1$d contraseña insegura</item>
+        <item quantity="two">%1$d contraseñas inseguras</item>
+        <item quantity="few">%1$d contraseñas inseguras</item>
+        <item quantity="many">%1$d contraseñas inseguras</item>
+        <item quantity="other">%1$d contraseñas inseguras</item>
     </plurals>
 
     <plurals name="need_fix">
-        <item quantity="zero">No low quality passwords</item>
-        <item quantity="one">You should improve %1$d password</item>
-        <item quantity="two">You should improve %1$d passwords</item>
-        <item quantity="few">You should improve %1$d passwords</item>
-        <item quantity="many">You should improve %1$d passwords</item>
-        <item quantity="other">You should improve %1$d passwords</item>
+        <item quantity="zero">Sin contraseñas de baja calidad</item>
+        <item quantity="one">Puedes mejorar %1$d contraseña</item>
+        <item quantity="two">Puedes mejorar %1$d contraseñas</item>
+        <item quantity="few">Puedes mejorar %1$d contraseñas</item>
+        <item quantity="many">Puedes mejorar %1$d contraseñas</item>
+        <item quantity="other">Puedes mejorar %1$d contraseñas</item>
     </plurals>
 
     <string name="chipLetters" translatable="false">abc…</string>
     <string name="upperCaseLetters" translatable="false">ABC…</string>
     <string name="chipNumbers" translatable="false">123…</string>
     <string name="chipSym" translatable="false">./-…</string>
-    <string name="length">Length</string>
+    <string name="length">Longitud</string>
     <string name="generate" translatable="false">+</string>
     <string name="passCopied">Password was copied to clipboard</string>
     <string name="loginCopied">Login was copied to clipboard</string>
