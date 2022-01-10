@@ -126,22 +126,22 @@
     <string name="light">Claro</string>
     <string name="dark">Oscuro</string>
     <string name="battery_saver">Ahorro de batería</string>
-    <string name="set_icon_color_to_current_theme">Set icon color to current theme</string>
-    <string name="warning_app_will_be_closed">(Warning: App will be closed)</string>
+    <string name="set_icon_color_to_current_theme">Establecer el color del icono del tema actual</string>
+    <string name="warning_app_will_be_closed">(Advertencia: la aplicación se cerrará)</string>
     <string name="set">Establecer</string>
     <string name="sameParts">Password contains same parts with</string>
     <string name="favorite">Favorito</string>
     <string name="email_login" translatable="false">E-mail/Login</string>
     <string name="add_email">Add login or e-mail</string>
     <string name="email" translatable="false">E-mail/login</string>
-    <string name="additional_settings">Additional settings</string>
-    <string name="showPin">Don\'t show this pin to others</string>
-    <string name="time_notification">Time notification</string>
-    <string name="total_points">Total quality:</string>
-    <string name="exported">Exported successfully to sdcard.</string>
-    <string name="imported">Imported successfully from sdcard.</string>
-    <string name="inOut">Export/Import info</string>
-    <string name="InOutMessage">To export / import data, you should grant permission to access the file system</string>
+    <string name="additional_settings">Ajustes adicionales</string>
+    <string name="showPin">No muestres este pin a los demás.</string>
+    <string name="time_notification">Aviso de tiempo</string>
+    <string name="total_points">Calidad total:</string>
+    <string name="exported">Exportado correctamente a sdcard.</string>
+    <string name="imported">Importado correctamente desde sdcard.</string>
+    <string name="inOut">Exportar / Importar información</string>
+    <string name="InOutMessage">Para exportar / importar datos, debe otorgar permiso para acceder al sistema de archivos</string>
     <string name="InOutMessage3">You can create csv yourself in the format: (_id, name, password, 2fa, useTimeNotifications, time, tags, groups, login (or e-mail), description). Id, time - will be filled automatically, 2fa, usetime take 1 or 0 depending on usage. Groups initialized to \"#favorite\" if the password is in the favorites</string>
     <string name="warning">¡Advertencia!</string>
     <string name="latest_updates_on_my_github_page">Últimas actualizaciones en mi página de GitHub</string>
@@ -195,9 +195,9 @@
     <string name="dinnerDesc">Realmente te gusta esta aplicación =)</string>
     <string name="buyMe">Este es un proyecto de código abierto. Sin anuncios. Sin compras adicionales. Si deseas apoyar esta app puedes comprarme algo.</string>
     <string name="password">Contraseña</string>
-    <string name="thx"> (Gracias =))</string>
+    <string name="thx">(Gracias =))</string>
     <string name="app_lock_time">Tiempo de bloqueo de la aplicación</string>
-    <string name="dontlock">Don\'t lock</string>
+    <string name="dontlock">No bloquear</string>
     <string name="password_analyze">Ocultar analizador de contraseñas</string>
     <string name="card_corners_radius">Redondeado de las tarjetas</string>
     <string name="a_z">A-Z</string>
